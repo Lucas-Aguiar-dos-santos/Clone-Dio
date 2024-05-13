@@ -11,18 +11,6 @@
       "name": "José",
       "email": "jose@gmail.com",
       "password": "123456"
-    },
-    {
-      "id": "15f1",
-      "user": "lucas",
-      "email": "lucasaguiar@gmail.com",
-      "password": "123456789"
-    },
-    {
-      "id": "057d",
-      "user": "Rafaela",
-      "email": "rafaela@gmail.com",
-      "password": "123456"
     }
   ]
 }
